@@ -236,3 +236,8 @@ footer {
 .skill:hover .description {
   display: block;
 }
+
+@media (max-width: 768px) {
+  /* Styles for mobile devices */
+}
+
